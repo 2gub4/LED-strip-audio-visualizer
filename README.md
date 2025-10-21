@@ -49,7 +49,6 @@ Projekt obsługuje różne efekty świetlne, m.in.:
   - onOdczytJasnosciChange();
   - onWyborTrybuChange();
   - onErgiebeChange();
----
 
 ---
 
