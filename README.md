@@ -82,6 +82,12 @@ The following data is stored in memory:
 * KY-038 Microphone
 
 ---
+
+
+PL
+
+
+
 ---
 
 ## Opis projektu
